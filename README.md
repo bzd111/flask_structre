@@ -1,7 +1,7 @@
 # flask_structre
 
 # Two structres
-## app 
+## app
 ```
 apps
 ├── app.py
@@ -40,5 +40,4 @@ functions
         └── base.html
 ```
 
-`reference： https://lepture.com/en/2018/structure-of-a-flask-project`
-
+reference： [https://lepture.com/en/2018/structure-of-a-flask-project](https://lepture.com/en/2018/structure-of-a-flask-project)
